@@ -22,3 +22,4 @@ O programa foi desenvolvido para treinar as habilidades em desenvolver o BackEnd
 
 ## 📃 Contribuições:
 - Fique a vontade para contribuir com PRs!
+- A Aplicação não tem um Front End, fique a vontade se quiser desenvolver um!
